@@ -2,7 +2,7 @@
 
 ## Other features that I add:
 
-###Random user generator using REST API
-###Countdown for a little suprise!
+### Random user generator using REST API
+### Countdown for a little suprise!
 
 
